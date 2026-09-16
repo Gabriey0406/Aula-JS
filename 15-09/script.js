@@ -7,7 +7,6 @@
 
 //const nome = "Gaby"
 //nome = "Pedro"
-
 //idade = 20;
 //idade = 21;
 
