@@ -119,7 +119,7 @@ if (nota >= 6) {//se sim
 
 let valor = 600;
 
-if (valor >= 500) {//se sim
+if (valor > 500) {//se sim
     console.log(valor - 20 );
     
     
