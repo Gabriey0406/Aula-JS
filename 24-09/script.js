@@ -56,33 +56,33 @@
 //    }
 // }
 
-let notas = [7, 3, 5, 9, 10, 8, 7, 4];
+// let notas = [7, 3, 5, 9, 10, 8, 7, 4];
 
-for (let index = 0; index < notas.length; index++) {
-    if (notas[index] >= 7) {
-    console.log("Aluno aprovado " + notas[index]);
+// for (let index = 0; index < notas.length; index++) {
+//     if (notas[index] >= 7) {
+//     console.log("Aluno aprovado " + notas[index]);
     
-   } else {
-    console.log("Aluno reprovado " + notas[index]);
+//    } else {
+//     console.log("Aluno reprovado " + notas[index]);
     
-   }
+//    }
     
-}
+// }
 
-let temperatura = [5, 16, 24, 30, 14, 18, 21]
+// let temperatura = [5, 16, 24, 30, 14, 18, 21]
 
-for (let index = 0; index < temperatura.length; index++) {
-    if (temperatura[index]>=30) {
-        console.log("Está calor!");
+// for (let index = 0; index < temperatura.length; index++) {
+//     if (temperatura[index]>=30) {
+//         console.log("Está calor!");
         
-    }else if  (temperatura[index]>= 20 && temperatura[index] <= 30){
-        console.log("Agradavel!");
+//     }else if  (temperatura[index]>= 20 && temperatura[index] <= 30){
+//         console.log("Agradavel!");
     
         
-}
-    else {
-        console.log("Está frio!");
+// }
+//     else {
+//         console.log("Está frio!");
         
 
-    }
-}
+//     }
+// }
